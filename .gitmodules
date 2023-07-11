@@ -1,0 +1,9 @@
+[submodule "robots/spot/config/spot_config"]
+	path = robots/spot/config/spot_config
+	url = https://github.com/jacob-m-nash/spot_config.git
+[submodule "robots/spot/spot_config"]
+	path = robots/spot/spot_config
+	url = https://github.com/jacob-m-nash/spot_config.git
+[submodule "robots/spot/spot_gazebo_description"]
+	path = robots/spot/spot_gazebo_description
+	url = https://github.com/jacob-m-nash/spot_gazebo_description.git
